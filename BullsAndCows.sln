@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BullsAndCows", "BullsAndCows\BullsAndCows.csproj", "{D954B0B1-1851-4526-BD92-C3D496824327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BullsAndCows.Tests", "BullsAndCows.Tests\BullsAndCows.Tests.csproj", "{613DA957-02CA-4CA6-B36E-6E09A63CFCF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D954B0B1-1851-4526-BD92-C3D496824327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D954B0B1-1851-4526-BD92-C3D496824327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D954B0B1-1851-4526-BD92-C3D496824327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D954B0B1-1851-4526-BD92-C3D496824327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{613DA957-02CA-4CA6-B36E-6E09A63CFCF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613DA957-02CA-4CA6-B36E-6E09A63CFCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613DA957-02CA-4CA6-B36E-6E09A63CFCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613DA957-02CA-4CA6-B36E-6E09A63CFCF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4D29516-16EB-4D80-8341-EA4AB1B1CF8D}
+	EndGlobalSection
+EndGlobal
